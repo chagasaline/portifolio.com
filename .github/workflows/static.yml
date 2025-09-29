@@ -974,7 +974,7 @@
                     </p>
                 </div>
                 <div class="hero-image fade-in-up">
-                    <img src="C:\Users\Aline Bento\OneDrive\Desktop\Meu Portifólio\img\Aline.png" alt="Aline Bento das Chagas" class="profile-photo">
+                    <img src=".github/workflows\Aline.png" alt="Aline Bento das Chagas" class="profile-photo">
                 </div>
             </div>
         </div>
